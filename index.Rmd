@@ -1,0 +1,21 @@
+---
+title: "Welcome!"
+image: "thomas2.jpg"
+color1: "#5A59A3"
+color2: "#C66060"
+angle: 130
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/thomas-fullagar-2a12a4109/"
+  - label: Twitter
+    url: "https://twitter.com/thomas_fullagar"
+  - label: GitHub
+    url: "https://github.com/tkfull"
+  - label: Email
+    url: "mailto:fullagar@ucsb.edu"
+output:
+  postcards::onofre
+site: distill::distill_website
+---
+ 
+I am currently in the PhD Economics program at University of California Santa Barbara (UCSB). My research interests are in applied micro-economics fields. My general areas of interest are education and crime economics, with focuses on higher education and judicial sentencing practices.

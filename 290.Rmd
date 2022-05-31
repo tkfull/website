@@ -1,0 +1,15 @@
+---
+title: "290"
+color1: "#5A59A3"
+color2: "#C66060"
+angle: 130
+description: |
+  Some additional details about the website
+output:
+  postcards::onofre
+---
+
+<ul>
+<li> For those that prefer plots and figures interspersed with the text, read <span style="font-size:20px; font-weight:bold; text-decoration:underline"><a href="Do-the-Crime-Serve-the-Time.html">this.</a></span></li>
+<li> If you prefer to consume them separately, and here are the <span style="font-size:20px; font-weight:bold; text-decoration:underline"><a href="Words.html">words</a></span> and here are the <span style="font-size:20px; font-weight:bold; text-decoration:underline"><a href="plots-figures.html">plots and figures.</a></span></li>
+</ul>

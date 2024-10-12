@@ -14,7 +14,7 @@ links:
   - label: Email
     url: "mailto:fullagar@ucsb.edu"
 output:
-  postcards::onofre
+  postcards::trestles
 site: distill::distill_website
 ---
  

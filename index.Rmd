@@ -1,9 +1,9 @@
 ---
 title: "Welcome!"
 image: "thomas2.jpg"
-color1: "#5A59A3"
-color2: "#C66060"
-angle: 130
+# color1: "#5A59A3"
+# color2: "#C66060"
+# angle: 130
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/thomas-fullagar-2a12a4109/"

@@ -12,4 +12,4 @@ navbar:
     - text: "290"
       href: 290.html
 output: distill::distill_article
-theme: postcards.css
+#theme: postcards.css

@@ -1,12 +1,9 @@
 ---
-title: "Research"
-description: |
-  Research
 output:
-  postcards::trestles
+  postcards::jolla
 theme: custom.css
 ---
-
+<div style="text-align: left;">
 
 <span style="text-decoration:underline"> **Works in Progress** </span> 
 
@@ -29,3 +26,5 @@ We examine the effect of establishment-level unionization elections on the equit
 
 
 "Executive Compensation in Publicly Listed U.S. Companies: The Influence of Work Experience and Educational Backgrounds" (<span style="text-decoration:underline">Draft Forthcoming</span>)
+
+</div>

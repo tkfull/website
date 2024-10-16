@@ -1,9 +1,7 @@
 ---
 title: "Welcome!"
 image: "thomas.jpg"
-# color1: "#5A59A3"
-# color2: "#C66060"
-# angle: 130
+class: home
 links:
   - label: CV
     url: "CV.pdf"
@@ -16,8 +14,9 @@ links:
   - label: Email
     url: "mailto:fullagar@ucsb.edu"
 output:
-  postcards::trestles
+  postcards::jolla
 site: distill::distill_website
 ---
- 
-My name is Thomas Fullagar ("Full-uh-gar"). I am a PhD candidate in the Economics department at University of California Santa Barbara (UCSB) and I am on the 2024-2025 academic job market. My research interests are in applied labor economics broadly, with a specific interest in how labor unions affect firms. My job market paper investigates the causal effects of union elections on firm stock prices. In my spare time I enjoy playing soccer, reading, and taking walks on the beach with <a href="mocha.jpeg">Mocha</a>.
+<div style="text-align: left;">
+My name is Thomas Fullagar ("Full-uh-gar"). I am a PhD candidate in the Economics department at University of California Santa Barbara (UCSB) and I am on the 2024-2025 academic job market. My research interests are in applied labor economics broadly, with a specific interest in how labor unions affect firms. My job market paper investigates the causal effects of union elections on firm stock prices. In my spare time I enjoy playing soccer, reading, and taking walks on the beach with <a href="mocha.jpg">Mocha</a>.
+</div>

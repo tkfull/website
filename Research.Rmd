@@ -1,0 +1,31 @@
+---
+title: "Research"
+description: |
+  Research
+output:
+  postcards::trestles
+theme: custom.css
+---
+
+
+<span style="text-decoration:underline"> **Works in Progress** </span> 
+
+**[Job Market Paper]** "Establishment-Level Unionization at Large Firms: Evidence from the 21st Century” *with [Alexander Abajian](https://acabajian.com/)* (<span style="text-decoration:underline">[Latest Version](JMP.pdf)</span>) 
+
+
+
+
+<details>
+  <summary>Abstract</summary>
+We examine the effect of establishment-level unionization elections on the equity value of publicly listed firms between 1994 and 2023. Successful elections at individual establishments have two opposing effects on firms’ stock prices - a negative effect on the date when an union election is filed with the NLRB, and a countervailing positive effect when the election is closed. We find no evidence that establishment-level unionization has material affects on stock returns in the short-run horizon regardless of the initial firm-level share of employees unionized, the size of the election taking place, or the sector in which the firm operates. Firms with large elections see a negative effect in the long-run of up to 5% compared to the benchmark, but these results are not robust to different samples or specifications.
+</details> 
+
+<br>
+
+
+"Posting Pay Transparency and Worker Outcomes: Evidence from Recent US State Laws" *with [Sebastian Brown](https://sebastiannbrown.github.io/)* (<span style="text-decoration:underline">Draft Forthcoming</span>)
+
+<br>
+
+
+"Executive Compensation in Publicly Listed U.S. Companies: The Influence of Work Experience and Educational Backgrounds" (<span style="text-decoration:underline">Draft Forthcoming</span>)

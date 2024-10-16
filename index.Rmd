@@ -1,14 +1,16 @@
 ---
 title: "Welcome!"
-image: "thomas2.jpg"
+image: "thomas.jpg"
 # color1: "#5A59A3"
 # color2: "#C66060"
 # angle: 130
 links:
+  - label: CV
+    url: "CV.pdf"
+  - label: Job Market Paper
+    url: "JMP.pdf"
   - label: LinkedIn
     url: "https://www.linkedin.com/in/thomas-fullagar-2a12a4109/"
-  - label: Twitter
-    url: "https://twitter.com/thomas_fullagar"
   - label: GitHub
     url: "https://github.com/tkfull"
   - label: Email
@@ -18,4 +20,4 @@ output:
 site: distill::distill_website
 ---
  
-My name is Thomas Fullagar ("Full-uh-gar"). I am currently in the PhD Economics program at University of California Santa Barbara (UCSB). My research interests are in applied micro-economics fields. My general areas of interest are education and crime, with focuses on higher education and judicial sentencing practices. In my spare time I enjoy playing soccer, reading, and taking walks on the beach with <a href="mocha.jpeg">Mocha</a>.
+My name is Thomas Fullagar ("Full-uh-gar"). I am a PhD candidate in the Economics department at University of California Santa Barbara (UCSB) and I am on the 2024-2025 academic job market. My research interests are in applied labor economics broadly, with a specific interest in how labor unions affect firms. My job market paper investigates the causal effects of union elections on firm stock prices. In my spare time I enjoy playing soccer, reading, and taking walks on the beach with <a href="mocha.jpeg">Mocha</a>.
